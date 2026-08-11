@@ -13,7 +13,7 @@ public class MostWater {
             while (left<right){
                 int area = Math.min(height[left],height[right])*(right-left);
                 result = Math.max(result,area);
-                if (left<right){
+                if (height[left]<height[right]){
                     left++;
                 }
                 else {
