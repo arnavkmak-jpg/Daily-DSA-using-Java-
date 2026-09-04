@@ -4,3 +4,9 @@ Daily practice repository for Data Structures, Algorithms, and LeetCode problem 
 * Arrays and Hashing
 * Binary Search
 * Two Pointers
+* Stack
+* Sliding Window
+* Linked List
+* Trees
+* Graphs
+* Dynamic Programming
